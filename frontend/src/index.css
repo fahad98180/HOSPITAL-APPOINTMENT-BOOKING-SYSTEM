@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+    font-family: outfit;
+}
+/* .active hr{
+
+} */
+::-webkit-scrollbar{
+    display: none;
+}
+/* gridTemplateColumns:{
+    'auto':'repeat(auto-fill,minmax(200px,ifr))'
+} */
+/* @media (max-width:750px){
+    .active p {
+        @apply text bg-blue-500
+    }
+} */
